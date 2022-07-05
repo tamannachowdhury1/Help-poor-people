@@ -3,29 +3,45 @@ body {
     margin: 0px;
 }
 
+.picture {
+    background-image: url(images/donation7.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1600px;
+
+
+}
+
+.design {
+    text-align: center;
+    color: white;
+    font-size: 50px
+}
+
+#black {
+    color: black;
+    text-align: center;
+    font-size: 30px
+}
+
+
+
 h1 {
     text-align: center;
     color: white;
+    font-size: 50px;
+    padding-top: 10px;
 }
 
-.black {
-    background-color: black;
+
+
+
+
+.footer {
     text-align: center;
-    color: brown;
-}
-
-#second {
-    text-align: left;
-    color: black;
-
-}
-
-#first {
+    margin-top: 70px;
     color: gray;
-
-}
-
-.picture {
-    background-image: url(images/donation5.jpg);
-
+    padding-top: 10px;
+    padding-bottom: 60px;
+    background-color: #131625;
 }
