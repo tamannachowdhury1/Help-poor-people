@@ -13,6 +13,8 @@ hr {
     width: 50%;
 }
 
+
+
 .gray {
     color: aqua;
 }
@@ -83,7 +85,6 @@ hr {
 }
 
 .left {
-    text-decoration: none;
     text-align: left;
     background-color: brown;
     padding: 1px;
