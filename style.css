@@ -25,18 +25,40 @@ h2 {
 
 }
 
+
+
+.sky {
+    background-color: rgb(219, 248, 239);
+
+
+}
+
+.color {
+    background-color: rgb(255, 235, 206);
+}
+
+.pink {
+    background-color: rgb(251, 196, 205);
+}
+
 .width {
     width: 50%;
     padding-left: 2%;
     padding-right: 3%;
+
 }
 
 .picture {
     width: 50%;
     padding-left: 2%;
     padding-right: 3%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
+.center {
+    text-align: center;
+}
 
 .width img {
     width: 95%;
