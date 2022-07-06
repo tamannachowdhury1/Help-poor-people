@@ -13,10 +13,16 @@ hr {
     width: 50%;
 }
 
-h2 {
-    color: rgb(204, 7, 7);
-    font-size: 30px;
+.gray {
+    color: aqua;
 }
+
+.second {
+    background-color: rgb(251, 196, 205);
+    border: 2px;
+}
+
+
 
 .flexible-container {
     display: flex;
@@ -33,7 +39,9 @@ h2 {
     margin-right: 3%;
 }
 
-.div {}
+.div {
+    margin-bottom: 150px;
+}
 
 .sky {
     background-color: rgb(219, 248, 239);
@@ -85,8 +93,6 @@ h2 {
 .background-pic {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
-    width: 1600px;
-    height: 400px;
 
 }
 
@@ -111,6 +117,16 @@ h2 {
     background-color: brown;
     color: aliceblue
 }
+
+.box {
+
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    background-color: bisque;
+}
+
 
 .footer {
     text-align: center;
