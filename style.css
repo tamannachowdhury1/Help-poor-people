@@ -41,21 +41,18 @@ hr {
 
 .container {
     text-align: center;
-    width: 10%;
+
     padding-left: 3%;
     padding-right: 3%;
     margin-left: 3%;
     margin-right: 3%;
 }
 
-.div {
-    margin-bottom: 120px;
-}
-
 .sky {
     background-color: rgb(219, 248, 239);
-
 }
+
+
 
 .color {
     background-color: rgb(255, 235, 206);
@@ -75,10 +72,11 @@ hr {
 
 .picture {
     width: 50%;
-    padding-left: 1%;
-    padding-right: 1%;
-    margin-left: 1%;
-    margin-right: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 0%;
+    margin-right: 5%;
+
 }
 
 .center {
@@ -86,23 +84,26 @@ hr {
 }
 
 .left {
-    text-align: left;
+    text-decoration: none;
+    text-align: center;
     background-color: brown;
-    padding: 1px;
+    padding-left: 2px;
     border-radius: 3px;
     margin-right: 65%;
     color: aliceblue;
-
+    width: 30%;
 }
+
 
 .right {
     text-decoration: none;
-    text-align: right;
+    text-align: center;
+    color: white;
     background-color: brown;
-    padding: 1px;
+    padding: 2px;
     border-radius: 3px;
     margin-right: 65%;
-    color: aliceblue;
+
 }
 
 .width img {
@@ -148,6 +149,7 @@ hr {
     background-color: brown;
     color: aliceblue
 }
+
 
 .box {
 
