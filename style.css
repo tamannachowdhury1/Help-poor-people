@@ -7,6 +7,7 @@ body {
 .white {
     color: aliceblue;
     padding-top: 5px;
+
 }
 
 
@@ -120,11 +121,9 @@ hr {
 }
 
 .background-pic {
-    background-image: url(images/donation7.jpg);
+    background-image: url(images/donation11.jpg);
     background-repeat: no-repeat;
-    height: 400px;
-    width: 1000px;
-
+    background-size: auto;
 }
 
 .from {
