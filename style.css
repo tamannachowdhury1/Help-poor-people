@@ -9,39 +9,64 @@ body {
     height: 500px;
     width: 1600px;
 
-
 }
-
-.design {
-    text-align: center;
-    color: white;
-    font-size: 50px
-}
-
-#black {
-    color: black;
-    text-align: center;
-    font-size: 30px
-}
-
-
 
 h1 {
     text-align: center;
     color: white;
-    font-size: 50px;
-    padding-top: 10px;
+    height: 3px;
+    font-size: 40px;
+    padding: 10px;
+
 }
 
+#gray {
+    text-align: center;
+    color: black;
+}
 
+.button {
+    text-align: left;
+    text-decoration: none;
+    padding: 12px 26px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px;
+    color: white;
+    font-weight: 700px;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.width {
+    width: 50%;
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+.width img {
+    width: 95%;
+}
 
 
 
 .footer {
     text-align: center;
-    margin-top: 70px;
+    margin-top: 100px;
     color: gray;
     padding-top: 10px;
     padding-bottom: 60px;
     background-color: #131625;
+}
+
+#orange {
+    color: orangered;
 }
