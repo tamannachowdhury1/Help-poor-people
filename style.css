@@ -121,9 +121,11 @@ hr {
 }
 
 .background-pic {
-    background-image: url(images/donation11.jpg);
+    background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
+    height: 700px;
+
 }
 
 .from {
