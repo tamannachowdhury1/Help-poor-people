@@ -19,10 +19,12 @@ hr {
 
 .second {
     background-color: rgb(251, 196, 205);
-    border: 2px;
+    border: 2px solid red;
 }
 
-
+.section {
+    margin-bottom: 150px;
+}
 
 .flexible-container {
     display: flex;
