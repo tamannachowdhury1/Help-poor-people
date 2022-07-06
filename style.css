@@ -42,7 +42,7 @@ hr {
 }
 
 .div {
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 
 .sky {
@@ -76,6 +76,27 @@ hr {
 
 .center {
     text-align: center;
+}
+
+.left {
+    text-decoration: none;
+    text-align: left;
+    background-color: brown;
+    padding: 1px;
+    border-radius: 3px;
+    margin-right: 65%;
+    color: aliceblue;
+
+}
+
+.right {
+    text-decoration: none;
+    text-align: right;
+    background-color: brown;
+    padding: 1px;
+    border-radius: 3px;
+    margin-right: 65%;
+    color: aliceblue;
 }
 
 .width img {
